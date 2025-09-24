@@ -600,5 +600,3 @@ class _CarritoSheet extends StatelessWidget {
     );
   }
 }
-
-
